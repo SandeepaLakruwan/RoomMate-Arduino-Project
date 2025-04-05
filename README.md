@@ -7,7 +7,7 @@ This repository contains:
 - Java Servlet backend to receive sensor data and provide status messages
 
 📺 **Watch the Full Demo on YouTube:**  
-👉 [https://youtube.com/your-video-link](https://youtu.be/MCi49OMHJGY)
+👉 [Demo Video](https://youtu.be/MCi49OMHJGY)
 
 ## 🚀 Features
 - Real-time sensor data collection via ESP32
